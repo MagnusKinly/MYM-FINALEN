@@ -1120,7 +1120,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Pokalside" id="vEb-Wf-QEY">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Pokalside kopi" id="vEb-Wf-QEY">
                                 <rect key="frame" x="0.0" y="44" width="320" height="568"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -1129,7 +1129,7 @@
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <color key="barTintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <items>
-                                    <navigationItem title="Pokaler" id="09K-wU-frc">
+                                    <navigationItem title="Trofæer" id="09K-wU-frc">
                                         <barButtonItem key="leftBarButtonItem" title="Tilbage" id="6Dj-9J-2lF">
                                             <connections>
                                                 <segue destination="bvH-d3-ed8" kind="modal" id="UVJ-Rz-I5Z"/>
@@ -1418,7 +1418,7 @@
         <image name="MonsterWalk" width="440" height="621"/>
         <image name="Mørk CYKLING" width="640" height="1136"/>
         <image name="POMMES" width="82" height="97"/>
-        <image name="Pokalside" width="640" height="1136"/>
+        <image name="Pokalside kopi" width="640" height="1136"/>
         <image name="PÆRE" width="57" height="96"/>
         <image name="Result" width="31" height="30"/>
         <image name="Resultat cykling tynd sort kant" width="638" height="1129"/>
@@ -1447,7 +1447,7 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="AOM-q5-6ml"/>
+        <segue reference="UVJ-Rz-I5Z"/>
         <segue reference="xeR-yL-d2b"/>
     </inferredMetricsTieBreakers>
 </document>
